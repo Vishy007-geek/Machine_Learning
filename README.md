@@ -27,3 +27,5 @@ Stop: Pause the movie
 9) Cab Driver - Reinforcement Learning
 
 10) Restricted Boltzmann Machine to perform Topic Modelling on a set of Amazon reviews. It is an unsupervised problem.
+    The input to an RBM is a bag of words model and the output is the distribution of words in the topics.
+
