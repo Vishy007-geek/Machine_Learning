@@ -23,3 +23,7 @@ Thumbs down: Decrease the volume
 Left swipe: 'Jump' backwards 10 seconds
 Right swipe: 'Jump' forward 10 seconds
 Stop: Pause the movie
+
+9) Cab Driver - Reinforcement Learning
+
+10) Restricted Boltzmann Machine to perform Topic Modelling on a set of Amazon reviews. It is an unsupervised problem.
